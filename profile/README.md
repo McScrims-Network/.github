@@ -1,16 +1,19 @@
 # Welcome 👋
 
-Willkommen auf dem McScrims Minecraft Server, dem ultimativen Ort für ein einzigartiges und verbessertes Spielerlebnis! Unser Server ist stolz darauf, den beliebten Spielmodus "Soup" in einer optimierten und spannenden Form zurückzubringen. Wir haben hart daran gearbeitet, das Spielerlebnis zu verbessern und freuen uns darauf, dich in unserem erweiterten Soup-Modus willkommen zu heißen.
+Welcome to the McScrims Minecraft server, the ultimate place for a unique and enhanced gaming experience! Our server is proud to bring back the popular game mode "Soup" in an optimized and exciting form. We have worked hard to improve the game experience and look forward to welcoming you to our enhanced Soup mode.
 
 ## Highlights:
 
-- Verbesserter Soup-Modus: Tauche ein in eine optimierte Version des Soup-Modus mit neuen Funktionen, Herausforderungen und aufregenden Spielmechaniken.
+- Improved soup mode: Dive into an optimized version of Soup Mode with new features, challenges and exciting game mechanics.
   
-- Vielfältige Spielmodi: McScrims wird nicht nur Soup bieten! Freu dich auf die Einführung weiterer spannender Spielmodi, die dein Spielerlebnis auf ein neues Level heben werden.
+- Diverse game modes: McScrims will not only offer Soup! Look forward to the introduction of more exciting game modes that will take your gaming experience to the next level.
 
 ## Wir suchen nach Talenten:
 
-- Webentwickler: Wenn du Leidenschaft für Webentwicklung hast und unsere Website mit innovativen Funktionen gestalten möchtest, sind wir auf der Suche nach talentierten Webentwicklern.
+- Web developer: If you have a passion for web development and want to add innovative features to our website, we are looking for talented web developers.
   
-- Plugin-Entwickler: Bist du ein erfahrener Plugin-Entwickler und möchtest dazu beitragen, die Spielerfahrung auf McScrims zu optimieren? Wir suchen nach engagierten Entwicklern, die sich in der Plugin-Entwicklung auskennen.
-Trete unserer Community bei, sei Teil eines wachsenden Teams und erlebe Minecraft auf eine neue Art und Weise auf dem McScrims Server! Wir freuen uns darauf, dich auf unserem Server zu begrüßen.
+- Plugin developer: Are you an experienced plugin developer and want to help optimize the gaming experience on McScrims? We are looking for dedicated developers who know their way around plugin development.
+
+#### Join our community, be part of a growing team and experience Minecraft in a new way on the McScrims server! We look forward to welcoming you to our server.
+
+IP: Coming Soon ...
