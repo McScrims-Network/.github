@@ -8,7 +8,7 @@ Welcome to the McScrims Minecraft server, the ultimate place for a unique and en
   
 - Diverse game modes: McScrims will not only offer Soup! Look forward to the introduction of more exciting game modes that will take your gaming experience to the next level.
 
-## Wir suchen nach Talenten:
+## We are searching for talents:
 
 - Web developer: If you have a passion for web development and want to add innovative features to our website, we are looking for talented web developers.
   
