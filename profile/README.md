@@ -16,4 +16,5 @@ Welcome to the McScrims Minecraft server, the ultimate place for a unique and en
 
 #### Join our community, be part of a growing team and experience Minecraft in a new way on the McScrims server! We look forward to welcoming you to our server.
 
-IP: Coming Soon ...
+IP: mcscrims.club
+Store: https://store.mcscrims.club
