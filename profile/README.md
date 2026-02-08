@@ -1,20 +1,58 @@
-# Welcome 👋
-
-Welcome to the McScrims Minecraft server, the ultimate place for a unique and enhanced gaming experience! Our server is proud to bring back the popular game mode "Soup" in an optimized and exciting form. We have worked hard to improve the game experience and look forward to welcoming you to our enhanced Soup mode.
-
-## Highlights:
-
-- Improved soup mode: Dive into an optimized version of Soup Mode with new features, challenges and exciting game mechanics.
+<div align="center">
+  <img src="https://i.imgur.com/jnK1HcB.png">
   
-- Diverse game modes: McScrims will not only offer Soup! Look forward to the introduction of more exciting game modes that will take your gaming experience to the next level.
-
-## We are searching for talents:
-
-- Web developer: If you have a passion for web development and want to add innovative features to our website, we are looking for talented web developers.
+  <h1>McScrims Network</h1>
   
-- Plugin developer: Are you an experienced plugin developer and want to help optimize the gaming experience on McScrims? We are looking for dedicated developers who know their way around plugin development.
+  <p>
+    <strong>The engineering home of the McScrims Minecraft Network.</strong><br>
+    Building high-performance competitive infrastructure, custom game cores, and advanced internal tooling.
+  </p>
 
-#### Join our community, be part of a growing team and experience Minecraft in a new way on the McScrims server! We look forward to welcoming you to our server.
+  <p>
+    <a href="https://mcscrims.club">Website</a> •
+    <a href="https://store.mcscrims.club">Store</a> •
+    <a href="https://discord.gg/HyZV4CdUgV">Discord</a>
+  </p>
+</div>
 
-- IP: mcscrims.club
-- Store: https://store.mcscrims.club
+<br>
+
+### 🛠️ Our Tech Stack
+
+We utilize a modern stack to ensure the best performance for our players and staff.
+
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+</div>
+
+<br>
+
+### 🚀 What we do
+
+McScrims is dedicated to reviving and optimizing competitive game modes like **Soup PvP**. Our GitHub organization hosts our public projects, issue trackers, and internal tools.
+
+- **High Performance:** Server cores optimized for competitive integrity and high TPS.
+- **Custom Tooling:** Proprietary software (like our Staff Client) to streamline moderation.
+- **Modern Web:** Seamless integration between game servers, discord, and web interfaces.
+
+---
+
+### 🤝 Join the Team
+
+We are always looking for talented developers to help us push the boundaries of Minecraft server infrastructure.
+
+* **Java Developers:** Experience with Paper API, NMS, and Packet handling.
+* **Web/App Developers:** Experience with React, TypeScript, and Electron.
+
+> Interested? Open a ticket on our [Discord](https://discord.gg/HyZV4CdUgV) or contact us via email.
+
+<div align="center">
+  <sub>Network IP: <code>play.mcscrims.club</code></sub>
+</div>
